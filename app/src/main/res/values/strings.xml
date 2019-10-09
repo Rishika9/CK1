@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TEAM VISION</string>
+
+    <string name="button_text">WEBSITE</string>
+    <string name="button_text2">FB</string>
+    <string name="button_text3">EMAIL US</string>
+    <string name="button_text4">CODE KRIEGERS FB</string>
+    <string name="text_name1">Final Year Team</string>
+    <string name="button_text5">Know more</string>
+    <string name="button_text6">Know more</string>
+    <string name="button_text7">Know more</string>
+    <string name="text_name2">Pre-Final Year Team</string>
+    <string name="text_name3">Second Year Team</string>
+    <string name="button_text8">DEVELOPERS</string>
+    <string name="button_text9">EMAIL FEEDBACK</string>
+
+
+</resources>
